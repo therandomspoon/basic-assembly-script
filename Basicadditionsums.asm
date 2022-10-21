@@ -20,4 +20,4 @@ main:
     mov     eax, 1
     int     0x80 
     
-    ;this code might not work if so 
+;this code might not work if so please tell me in discussions;
